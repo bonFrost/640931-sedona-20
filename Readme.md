@@ -1,7 +1,7 @@
 # Личный проект «Седона» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Владислав Савельев](https://up.htmlacademy.ru/adaptive/20/user/640931).
-* Наставник: `Неизвестно`.
+* Наставник: [Алексей Корягин](https://htmlacademy.ru/profile/alexeycorr).
 
 ---
 
